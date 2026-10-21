@@ -1,0 +1,12 @@
+{
+  "profiles": ["vogueclinic"],
+  "resultsPerPage": 30,
+  "excludePinnedPosts": false,
+  "shouldDownloadVideos": false,
+  "shouldDownloadCovers": false,
+  "shouldDownloadSlideshowImages": false,
+  "shouldDownloadAvatars": false,
+  "shouldDownloadMusicCovers": false,
+  "profileScrapeSections": ["videos"],
+  "profileSorting": "latest"
+}

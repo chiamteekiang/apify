@@ -1,0 +1,228 @@
+=== POST 1 ===
+type: Image | productType: feed | likes: 367 | comments: 1 | views: undefined | date: 2026-09-28T10:51:51.000Z
+caption: Innalillahi wa inna ilaihi raji’un 🤍 |  | Perginya seorang isteri, ibu dan insan yang begitu disayangi. |  | 70 tahun bersama, satu perjalanan yang menggambarkan indahnya sebuah cinta sejati. Hari ini terpisah buat selamanya.  |  | Salam takziah buat Tun Dr. Mahathir Mohamad dan seluruh keluarga Allahyarhamah Tun Dr. Siti Hasmah Mohd Ali. |  | Semoga Allah SWT mencucuri rahmat ke atas roh Allahyarhamah dan menempatkan beliau dalam kalangan orang-orang yang beriman. |  | Al-Fatihah. 🤲🏻 |   | 📷Cr: @chedetofficial
+hashtags: []
+mentions: [ 'chedetofficial' ]
+url: https://www.instagram.com/p/Dd0_WeOzio_/
+
+=== POST 2 ===
+type: Video | productType: clips | likes: 22 | comments: 1 | views: 1118 | date: 2026-10-16T05:51:22.000Z
+caption: Dah tak risau muka jatuh lepasni sebab ada HIFU Treatment ni tau! Katanya kalau maintain lagi lagi cantik result dia 🤔 | #Spavilion #HIFUTreatment #HifuExpert
+hashtags: [ 'Spavilion', 'HIFUTreatment', 'HifuExpert' ]
+mentions: []
+url: https://www.instagram.com/p/Dei0qAxzsu9/
+
+=== POST 3 ===
+type: Video | productType: clips | likes: 1 | comments: 0 | views: 895 | date: 2026-10-01T02:54:02.000Z
+caption: Pernah buat tapi tak nampak result. Datang Spavilion buat sekali je terus dapat result yang daa best, terus continue sampai ambil package 🤭  | #HIFUTreatment #StimulateCollagen #HifuExpert
+hashtags: [ 'HIFUTreatment', 'StimulateCollagen', 'HifuExpert' ]
+mentions: []
+url: https://www.instagram.com/p/Dd74cOfT4Kz/
+
+=== POST 4 ===
+type: Video | productType: clips | likes: 16 | comments: 1 | views: 1370 | date: 2026-10-13T02:55:29.000Z
+caption: Umur makin naik. Tapi muka yang makin turun?!! Means dah kena start maintain HIFU untuk stay firm ✨ | #Spavilion #HIFUTreatment #StimulateCollagen #HifuExpert #InstantResult
+hashtags: [
+  'Spavilion',
+  'HIFUTreatment',
+  'StimulateCollagen',
+  'HifuExpert',
+  'InstantResult'
+]
+mentions: []
+url: https://www.instagram.com/p/DeayErazeqn/
+
+=== POST 5 ===
+type: Video | productType: clips | likes: 95 | comments: 0 | views: 4519 | date: 2026-10-08T03:20:12.000Z
+caption: Muka nampak tired? Then first time nak try hifu treatment dekat SPAVILION. Memang instant result macam yang selalu nampak tau!! Next kena repeat lagi 😍 | #Spavilion #HIFUTreatment #StimulateCollagen #HifuExpert
+hashtags: [ 'Spavilion', 'HIFUTreatment', 'StimulateCollagen', 'HifuExpert' ]
+mentions: []
+url: https://www.instagram.com/p/DeN89qRTk5B/
+
+=== POST 6 ===
+type: Video | productType: clips | likes: 0 | comments: 0 | views: 709 | date: 2026-10-07T08:47:59.000Z
+caption: Datang dulu kita consult sama sama baru boleh decide apa treatment yang you perlukan ❤️
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DeL9rsFzMC8/
+
+=== POST 7 ===
+type: Video | productType: clips | likes: 21 | comments: 2 | views: 2464 | date: 2026-10-06T01:23:09.000Z
+caption: Sebelum ni tak pernah buat apa apa treatment, tapi kalini nak cuba juga buat hifu. As you can see the result, memang instant result betul ehh!!  |  | Memang next kena maintain dengan hifu treatment je dekat SPAVILION ni.  | #HIFUTreatment #StimulateCollagen #HifuExpert #Spavilion #InstantResult
+hashtags: [
+  'HIFUTreatment',
+  'StimulateCollagen',
+  'HifuExpert',
+  'Spavilion',
+  'InstantResult'
+]
+mentions: []
+url: https://www.instagram.com/p/DeIl-CMz4hk/
+
+=== POST 8 ===
+type: Video | productType: clips | likes: 21 | comments: 0 | views: 1828 | date: 2026-09-29T04:09:48.000Z
+caption: Tried HIFU Treatment today. Actually suka result dia, nampak more defined but still natural 🤍  | #spavilion #hifutreatment #antiaging #instantresult
+hashtags: [ 'spavilion', 'hifutreatment', 'antiaging', 'instantresult' ]
+mentions: []
+url: https://www.instagram.com/p/Dd23Lf4zLMN/
+
+=== POST 9 ===
+type: Video | productType: clips | likes: 30 | comments: 3 | views: 2390 | date: 2026-10-08T07:56:08.000Z
+caption: Perform dekat pentas ❌ | Perform dekat spa ✅
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DeOckS1zGej/
+
+=== POST 10 ===
+type: Video | productType: clips | likes: 8 | comments: 0 | views: 1641 | date: 2026-09-21T02:40:53.000Z
+caption: “Kenapa orang lain buat HIFU nampak terus sharp, tapi kita punya macam tak nampak?” 👀 |  | Sebenarnya, hasil HIFU tak semestinya sama untuk semua orang. Banyak faktor yang perlu tengok, keadaan kulit, tahap sagging, struktur muka, kawasan yang nak dirawat & teknik treatment. |  | Sebab tu sebelum buat HIFU, penting untuk assess muka dulu, bukan sekadar ikut berapa shots atau compare result orang lain.
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdiG_Cozcss/
+
+=== POST 11 ===
+type: Video | productType: clips | likes: 0 | comments: 0 | views: 29 | date: 2026-10-21T04:45:04.000Z
+caption: New experience unlocked 🔓 | First time of my life kita try buat HIFU Treatment. Honestly memang best ek result dia !! 😍 | #hifutreatment #instantresult #hifuexpert
+hashtags: [ 'hifutreatment', 'instantresult', 'hifuexpert' ]
+mentions: []
+url: https://www.instagram.com/p/DevkxS3T_gz/
+
+=== POST 12 ===
+type: Video | productType: clips | likes: 43 | comments: 0 | views: 3931 | date: 2026-09-08T06:49:45.000Z
+caption: Memang nampak perubahan ketara sangat tau lepas 4 kali treatment hifu. |  | Nampak tak hasil bila kita rajin konsisten hifu? Lurve sangat the result !! Memang akan repeat! 😍
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdBFH-xThMx/
+
+=== POST 13 ===
+type: Video | productType: clips | likes: 9 | comments: 1 | views: 1201 | date: 2026-09-23T06:16:33.000Z
+caption: New Branch in Progress. Stay Tuned! ✨
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdnpKefT6Cr/
+
+=== POST 14 ===
+type: Video | productType: clips | likes: 1 | comments: 0 | views: 1479 | date: 2026-09-12T03:18:32.000Z
+caption: A little teaser for what’s coming. Stay tuned !
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdLAKzcT0Ig/
+
+=== POST 15 ===
+type: Video | productType: clips | likes: 129 | comments: 9 | views: 7460 | date: 2026-09-15T06:01:28.000Z
+caption: Exactly! Kita diberi amanah untuk menjaga, so tak salah pum untuk kita cari alternatif untuk menjaga kecantikan kita kann 🤭  |  | And lagi satu no worries, treatment HIFU ni patuh syariah dan selamat.
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdTBJYzzJbM/
+
+=== POST 16 ===
+type: Video | productType: clips | likes: 22 | comments: 1 | views: 1962 | date: 2026-09-22T06:54:26.000Z
+caption: Tengok cermin je muka nampak puffy teruk! Tapi tak expect lepas buat HIFU ni boleh terus dapat effect firm macam ni 😱
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdlImuFTU8X/
+
+=== POST 17 ===
+type: Video | productType: clips | likes: 29 | comments: 0 | views: 3085 | date: 2026-09-11T02:55:40.000Z
+caption: Mesti ramai yang ingat HIFU ni untuk orang berusia je kan? Tapi actually HIFU ni lagi bagus kalau you prevent dari muda, sebab lagi senang nak maintain structure muka untuk nampak firm.  |  | You guys should try HIFU Treatment dekat @spavilion.my
+hashtags: []
+mentions: [ 'spavilion.my' ]
+url: https://www.instagram.com/p/DdIYhQEzav2/
+
+=== POST 18 ===
+type: Video | productType: clips | likes: 7 | comments: 0 | views: 1397 | date: 2026-09-24T10:22:01.000Z
+caption: Dulu texture muka banyak pores terbuka and bila makeup jadi tak smooth. Now lepas buat beberapa kali treatment kulit memang nampak licin je and texture makeup terus smooth 😍
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdqqKSlTMlr/
+
+=== POST 19 ===
+type: Video | productType: clips | likes: 14 | comments: 0 | views: 850 | date: 2026-10-15T06:12:14.000Z
+caption: Bukan sebab fomo jee semata, tapi kita try sebab nak kan result yang instant tu 😍
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DegSCyRTZ4P/
+
+=== POST 20 ===
+type: Sidecar | productType: carousel_container | likes: 19 | comments: 3 | views: undefined | date: 2026-08-29T03:34:44.000Z
+caption: Result After Hifu  |  | Korang cuba tengok! Nampak tak perbezaan dia !! Cuba comment dekat bawah. Boleh tengok content kita “Kena Focus Part Mana” kalau betul betul nak spot the difference 😉
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/Dcm-7R2E2Rz/
+
+=== POST 21 ===
+type: Video | productType: clips | likes: 9 | comments: 0 | views: 1474 | date: 2026-09-26T04:21:57.000Z
+caption: Muka nampak tired? Maybe it’s time for a little boost !
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdvKXqRzDmB/
+
+=== POST 22 ===
+type: Video | productType: clips | likes: 65 | comments: 3 | views: 5297 | date: 2026-08-27T02:59:34.000Z
+caption: Orang laki jarang lah tahu bab bab nak cantik handsome ni 😆 |  | Tapi kalini wife abang ezad yang ngajak buat hifu ni, so lepasni kena repeat lagi la kan ?  |  | Memang nampak obvious lifting even baru lepas sekali treatment, belum maintain 3 bulan lagi 🫢  |  | #Spavilion #HIFUTreatment #StimulateCollagen #HifuExpert #InstantResult
+hashtags: [
+  'Spavilion',
+  'HIFUTreatment',
+  'StimulateCollagen',
+  'HifuExpert',
+  'InstantResult'
+]
+mentions: []
+url: https://www.instagram.com/p/DchxO8kzEnk/
+
+=== POST 23 ===
+type: Video | productType: clips | likes: 18 | comments: 0 | views: 2530 | date: 2026-09-12T07:30:50.000Z
+caption: Dari bad review terus ke feedback yang positive after sedar yang sebenarnya apa yang kita suggest memang betul betul dia perlukan sahaja. |  | So no worries, kita takkan suggest kalau treatment tu tak sesuai dengan you.
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DdLc9COzqCO/
+
+=== POST 24 ===
+type: Video | productType: clips | likes: 32 | comments: 2 | views: 4080 | date: 2026-08-05T07:43:11.000Z
+caption: Dari mula mula datang Spavilion, and now hasil muka Kak Kuza. Nampak sendiri kan dia punya difference. |  | Yang pasti bukan ubah muka la cuma nampak lebih firm kalau nak dibandingkan dengan before. |  | Memang menjadi lah result hifu dekat Spavilion ni! Lurvee angatt! Memang Kak Kuza akan maintain dengan Spavilion 😘 | #Spavilion #HIFUTreatment #InstantResult #HifuExpert
+hashtags: [ 'Spavilion', 'HIFUTreatment', 'InstantResult', 'HifuExpert' ]
+mentions: []
+url: https://www.instagram.com/p/DbpoNilTwJ9/
+
+=== POST 25 ===
+type: Video | productType: clips | likes: 2 | comments: 0 | views: 1260 | date: 2026-10-02T04:31:35.000Z
+caption: Dah menyesal pun tak guna… EH EH EH NOO !! | kalini berguna sebab still boleh buat dengan HIFU 🤪
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/Dd-niyGT_vw/
+
+=== POST 26 ===
+type: Video | productType: clips | likes: 14 | comments: 0 | views: 3065 | date: 2026-07-30T09:58:23.000Z
+caption: Bukan tak terima penuaan. |  | Cuma bila ada cara untuk jaga diri dan nampak lebih segar, kenapa tak? |  | Tua itu pasti, tapi kita masih ada pilihan untuk menua dengan lebih confident 🤍
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/Dbaa3dVS74c/
+
+=== POST 27 ===
+type: Video | productType: clips | likes: 8 | comments: 0 | views: 3507 | date: 2026-08-12T04:01:32.000Z
+caption: Benda kalau dah buat sekali and dapat result yang memang best, CONFIRM nak repeat sampai ngam ye dok 🫢  |  | Kak Shiela dah repeat hifu kali ke4 and memang lurvee sangat dengan result yang dia dapat! Memang tak pergi tempat lain dah! #SPAVILION
+hashtags: [ 'SPAVILION' ]
+mentions: []
+url: https://www.instagram.com/p/Db7QYPZTExp/
+
+=== POST 28 ===
+type: Video | productType: clips | likes: 51 | comments: 11 | views: 6260 | date: 2026-08-18T05:11:57.000Z
+caption: Finally buat HIFU juga 🤭 |  | Selama ni asyik dengar orang cerita pasal HIFU, kalini kita sendiri cuba. |  | Suka bila result dia nampak natural muka rasa lebih lifted, jawline pun nampak lebih kemas tapi tak nampak over. |  | Yang penting, memang akan repeat lagi dekat @spavilion.my 🤍
+hashtags: []
+mentions: [ 'spavilion.my' ]
+url: https://www.instagram.com/p/DcK1H6dTxkB/
+
+=== POST 29 ===
+type: Video | productType: clips | likes: 16 | comments: 2 | views: 3494 | date: 2026-08-01T06:47:55.000Z
+caption: “HIFU ni betul-betul berkesan ke?”  |  | Ramai yang masih ragu-ragu. |  | Sebab tu kami pilih untuk tunjuk hasil sebenar selepas 1 sesi HIFU di SPAVILION. |  | Setiap perubahan bergantung pada keadaan kulit masing-masing, tapi kalau awak nak tahu sama ada HIFU sesuai untuk concern awak, boleh WhatsApp team SPAVILION untuk consultation. |  | 📲 Klik link di bio.
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DbfOnHGTXPJ/
+
+=== POST 30 ===
+type: Video | productType: clips | likes: 18 | comments: 0 | views: 3055 | date: 2026-08-21T03:22:02.000Z
+caption: “Kenapa semua yg buat HIFU ni semua nya artist. Mereka takut tua ka?” - kata kata dari salah seorang makcik fb. |  | Tak semestinya. |  | Kita boleh terima yang kita akan tua, tapi dalam masa yang sama kita masih boleh jaga kulit dan penampilan. |  | Accept aging ≠ stop caring about how you look. |  | Tua tu pasti. Tapi cara kita nak lalui fasa tu, pilihan masing-masing 🤍
+hashtags: []
+mentions: []
+url: https://www.instagram.com/p/DcSXDrfzeae/
+
